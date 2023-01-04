@@ -1,0 +1,48 @@
+
+/*全体の設定*/
+body{
+  background-color: #ffffff;
+}
+
+/*ヘッダーの設定*/
+.header{
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+}
+
+/*content_body*/
+.flex{
+  display: flex;
+}
+
+
+.content-body1{
+  background-color: #ecd94d;
+  width: calc(100% * (6 / 12));
+  padding: 300px;
+  color: #fff;
+}
+
+
+.content-body2{
+  background-color: #2BCFDE;
+  width: calc(100% * (6 / 12));
+  padding: 240px;
+  color: #fff;
+}
+
+
+.content-body3{
+  background-color: #E89C6E;
+  padding: 240px;
+  color: #fff;
+}
+
+
+.content-body4{
+  background-color: #D4631E;
+  padding: 240px;
+  color: #fff;
+}
+
+
